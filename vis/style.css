@@ -1,0 +1,14 @@
+iframe {
+	width: 47%;
+	height: 500px;
+}
+
+.page_name {
+	font: 30px Helvetica, Arial, sans-serif;
+	margin: 0px;
+}
+
+.thread {
+	font: 25px Helvetica, Arial, sans-serif;
+	margin: 0px;
+}
